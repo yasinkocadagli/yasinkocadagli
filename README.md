@@ -9,6 +9,14 @@
 <a href=https://www.linkedin.com/in/yasinkocadagli/> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-512.png" width="30"> </a>&nbsp;<a href=https://www.instagram.com/yasinkocadaglii/> <img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/155/social-media_instagram-black-512.png" width="30"> </a>&nbsp;
 <a href='mailto:yasinkocadagli@gmail.com'> <img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/154/social-media_email_new-3-512.png" width="30"> </a>&nbsp;
 
+<p align="center">
+<a href="https://github.com/yasinkocadagli">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasinkocadagli&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasinkocadagli&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 ------------
 
 ### Technologies and tools :
@@ -24,4 +32,3 @@
 
 
 </br>
-<img width=600 src="https://wakatime.com/share/@c168232a-d758-433a-bbdd-c08ae712e5e3/ca64d2e9-8943-4e31-91f8-efe867fd1dd8.svg">
