@@ -2,7 +2,7 @@
 
 ### I'm a information systems engineering student!!
 - 🌱 I’m currently learning everything 
-- 🥅 2023 Goals: Reaching advanced level in JavaScript, React
+- 🥅 2025 Goals: Improving my skills in cybersecurity
 
 ### Connect with me:
 
